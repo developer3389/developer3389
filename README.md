@@ -2,7 +2,7 @@
 
 A collection of tools for network security and bypassing censorship.
 
-<h3 align="center">Toolbox</h3>
+### Toolbox
 
 | <div align="center">Project</div> | <div align="center">Description</div> |
 | --- | --- |
