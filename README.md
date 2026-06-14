@@ -1,8 +1,5 @@
 ## Anti-Censorship Suite
-
 A collection of tools for network security and bypassing censorship.
-
-### Toolbox
 
 | <div align="center">Project</div> | <div align="center">Description</div> |
 | --- | --- |
