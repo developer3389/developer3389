@@ -1,5 +1,5 @@
 ## Anti-Censorship Suite
-A **666**-collection of tools for network security and bypassing censorship.
+A **666**-collection of tools for network privacy and bypassing censorship.
 
 | <div align="center">Project</div> | <div align="center">Description</div> |
 | --- | --- |
