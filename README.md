@@ -12,6 +12,6 @@ A **666**-collection of tools for network privacy and bypassing censorship.
 
 ## Share It
 Share this suite with those who need it:
-```bash
+```text
 https://github.com/developer3389
 ```
