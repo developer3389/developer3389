@@ -9,3 +9,9 @@ A **666**-collection of tools for network privacy and bypassing censorship.
 | [network-censorship-analysis](https://github.com/developer3389/network-censorship-analysis) | DPI: How to beat it |
 | [awesome-internet-blocking-bypass](https://github.com/developer3389/awesome-internet-blocking-bypass) | Tools you probably didn't know about |
 | [wayback-mirror](https://github.com/developer3389/wayback-mirror) | If I get banned, I have archived it |
+
+## Share It
+Share this suite with those who need it:
+```bash
+https://github.com/developer3389
+```
