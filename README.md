@@ -19,4 +19,4 @@ https://github.com/developer3389
 ## Acknowledgements
 This collection of tools was inspired by the active open-source community dedicated to low-level networking. A special thanks to:
 
-- **[teotrama/vpn](https://github.com/theotrama/vpn)**: For pioneering independent research on TUN-based packet tunneling and modular network protocol implementation in Go.
+- **[theotrama/vpn](https://github.com/theotrama/vpn)**: For pioneering independent research on TUN-based packet tunneling and modular network protocol implementation in Go.
