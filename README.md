@@ -8,7 +8,7 @@ A **666**-collection of tools for network privacy and bypassing censorship.
 | [vpn-gateway](https://github.com/developer3389/vpn-gateway) | Set up your home VPN gateway to share it |
 | [network-censorship-analysis](https://github.com/developer3389/network-censorship-analysis) | DPI: How to beat it |
 | [awesome-internet-blocking-bypass](https://github.com/developer3389/awesome-internet-blocking-bypass) | Tools you probably didn't know about |
-| [wayback-mirror](https://github.com/developer3389/wayback-mirror) | If I get banned, I have archived it |
+| [wayback-mirror](https://github.com/developer3389/wayback-mirror) | If we get banned, we have archived it |
 
 ## Share It
 Share this suite with those who need it:
