@@ -10,7 +10,7 @@ A collection of tools for network privacy and bypassing censorship.
 | [awesome-internet-blocking-bypass](https://github.com/developer3389/awesome-internet-blocking-bypass) | Tools you probably didn't know about |
 | [wayback-mirror](https://github.com/developer3389/wayback-mirror) | If we get banned, we have archived it |
 
-## If Internet very slowest
+## If Internet is very slow
 | <div align="center">Project</div> | <div align="center">Description</div> |
 | :---: | :---: |
 | [notssh](https://github.com/linuxdev345/notssh) | Read news in the console |
