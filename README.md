@@ -14,8 +14,3 @@ A collection of tools for network privacy and bypassing censorship.
 | <div align="center">Project</div> | <div align="center">Description</div> |
 | :---: | :---: |
 | [notssh](https://github.com/linuxdev345/notssh) | Read news in the console |
-
-## Acknowledgements
-This collection of tools was inspired by the active open-source community dedicated to low-level networking. A special thanks to:
-
-- **[theotrama/vpn](https://github.com/theotrama/vpn)**: For pioneering independent research on TUN-based packet tunneling and modular network protocol implementation in Go.
