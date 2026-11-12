@@ -10,11 +10,10 @@ A collection of tools for network privacy and bypassing censorship.
 | [awesome-internet-blocking-bypass](https://github.com/developer3389/awesome-internet-blocking-bypass) | Tools you probably didn't know about |
 | [wayback-mirror](https://github.com/developer3389/wayback-mirror) | If we get banned, we have archived it |
 
-## Share It
-Share this suite with those who need it:
-```text
-https://github.com/developer3389
-```
+## Slowest Internet ~few kbit/s
+| <div align="center">Project</div> | <div align="center">Description</div> |
+| :---: | :---: |
+| [notssh](https://github.com/linuxdev345/notssh) | Read news in the console |
 
 ## Acknowledgements
 This collection of tools was inspired by the active open-source community dedicated to low-level networking. A special thanks to:
