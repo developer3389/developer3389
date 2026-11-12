@@ -13,4 +13,4 @@ A collection of tools for network privacy and bypassing censorship.
 ## If Internet is very slow
 | <div align="center">Project</div> | <div align="center">Description</div> |
 | :---: | :---: |
-| [notssh](https://github.com/linuxdev345/notssh) | Read news in the console |
+| [notssh](https://github.com/linuxdev345/notssh) | News & ChatGPT & Telegram in the console |
